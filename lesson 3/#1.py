@@ -21,3 +21,4 @@ def number_translate_upd(number):
 if __name__ == "__main__":
     num = input()
     number_translate_upd(num)
+
